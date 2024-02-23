@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert('This is still from GitHub! But it has changed! What the Heck!')
+    alert('This is still from GitHub! This test is going to work')
 });
